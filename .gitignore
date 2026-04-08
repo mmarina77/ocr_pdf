@@ -1,0 +1,11 @@
+
+# dotfiles
+.venv*/
+.vscode/
+
+# cache
+__pycache__
+
+# Data
+work
+books
