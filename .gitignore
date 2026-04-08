@@ -2,6 +2,7 @@
 # dotfiles
 .venv*/
 .vscode/
+package/__pycache__/*
 
 # cache
 __pycache__
