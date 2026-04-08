@@ -1,5 +1,6 @@
 
 # dotfiles
+.gitignore
 .venv*/
 .vscode/
 package/__pycache__/*
