@@ -11,5 +11,5 @@ Install Poppler and set the Library/bin path as global in your system environmen
 
 Usage
 command-line
- - main PDF file path
-- main PDF files folder path
+ - main.py PDF file path
+ - main.py PDF files folder path
