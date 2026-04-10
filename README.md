@@ -8,3 +8,8 @@ Install Tesseract-OCR and set the path as global in your system environment vari
 // for pdf2image, pdftotext
 
 Install Poppler and set the Library/bin path as global in your system environment variables
+
+Usage
+command-line
+>main <PDF file path>
+>main <PDF files folder path>
