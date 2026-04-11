@@ -1,6 +1,6 @@
 
-# [OCR_PDF]
-[A OCR_PDF in python converts a PDF book into a searchable PDF file.]
+# OCR_PDF
+A OCR_PDF in python converts a PDF book into a searchable PDF file.
 
 ## 🚀 Features
 * It converts one PDF file
