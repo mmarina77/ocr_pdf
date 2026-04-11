@@ -1,6 +1,10 @@
 
-# OCR_PDF
-A Python tool to perform OCR on PDFs using Tesseract.
+# [OCR_PDF]
+[A OCR_PDF in python converts a PDF book into a searchable PDF file.]
+
+## 🚀 Features
+* [It converts one PDF file]
+* [It converts PDF files from a folder.]
 
 ## Installation
 ```bash
