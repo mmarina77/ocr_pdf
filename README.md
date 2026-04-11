@@ -17,18 +17,16 @@ main.py input_folder
 * Install Poppler and set the Library/bin path as global in your system environment variables (for pdf2image, pdftotext)
 
 ```bash
-pip install ocrmypdf
+# Clone the repository
+git clone https://github.com
 
-```
-# ocr_pdf working version
+# Navigate to the directory
+cd yourproject
 
+# (Optional) Create a virtual environment
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
 
-Usage
-```bash command-line
-
-# for pdf file
-main.py input.pdf
-
-# for pdf folder files
-main.py input_folder
+# Install dependencies
+pip install -r requirements.txt
 ```
