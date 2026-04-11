@@ -1,4 +1,11 @@
 
+# OCR_PDF
+A Python tool to perform OCR on PDFs using Tesseract.
+
+## Installation
+```bash
+pip install ocrmypdf
+
 # ocr_pdf working version
 
 Initial Settings
@@ -10,6 +17,6 @@ Install Tesseract-OCR and set the path as global in your system environment vari
 Install Poppler and set the Library/bin path as global in your system environment variables
 
 Usage
-command-line
- - main.py 'PDF file path'
- - main.py 'PDF files folder path'
+```bash command-line
+ - main.py input.pdf
+ - main.py input_folder
