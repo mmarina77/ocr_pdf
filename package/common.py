@@ -219,8 +219,8 @@ def process_pdf_for_ocr(original_pdf_path, work_dir):
     base_name = Path(original_pdf_path).stem
     tmp_pdf = os.path.join(work_dir, config.WORK_OCR_DIR, f"{base_name}_tmp.pdf")
     grey_tmp_pdf = os.path.join(work_dir, config.WORK_OCR_DIR, f"{base_name}_grey_tmp.pdf")
-    tmp_txt = os.path.join(work_dir, config.WORK_OCR_DIR, f"{base_name}_tmp.txt")
-    orig_searchable_pdf = os.path.join(work_dir, config.WORK_OCR_DIR, f"{base_name}_searchable.pdf")
+    tmp_txt = os.path.join(work_dir, f"{base_name}_text.txt")
+    orig_searchable_pdf = os.path.join(work_dir, f"{base_name}_searchable.pdf")
 
     orig_images_dir = os.path.join(work_dir, config.WORK_IMAGES_DIR)
     filtered_images_dir = os.path.join(work_dir, config.WORK_FILTERED_IMAGES_DIR)
