@@ -6,6 +6,7 @@ A Python tool to perform OCR on PDFs using Tesseract.
 ```bash
 pip install ocrmypdf
 
+```
 # ocr_pdf working version
 
 Initial Settings
