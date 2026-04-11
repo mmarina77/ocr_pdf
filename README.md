@@ -21,3 +21,4 @@ Usage
 ```bash command-line
  - main.py input.pdf
  - main.py input_folder
+```
