@@ -3,8 +3,14 @@
 [A OCR_PDF in python converts a PDF book into a searchable PDF file.]
 
 ## 🚀 Features
-* [It converts one PDF file]
-* [It converts PDF files from a folder.]
+* It converts one PDF file
+```bash
+main.py input.pdf
+```
+* It converts PDF files from a folder.
+```bash
+main.py input_folder
+```
 
 ## Installation
 ```bash
