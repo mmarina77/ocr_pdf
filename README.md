@@ -12,20 +12,16 @@ main.py input.pdf
 main.py input_folder
 ```
 
-## Installation
+## 🛠 Installation
+* Install Tesseract-OCR and set the path as global in your system environment variables
+* Install Poppler and set the Library/bin path as global in your system environment variables (for pdf2image, pdftotext)
+
 ```bash
 pip install ocrmypdf
 
 ```
 # ocr_pdf working version
 
-Initial Settings
-
-Install Tesseract-OCR and set the path as global in your system environment variables
-
-// for pdf2image, pdftotext
-
-Install Poppler and set the Library/bin path as global in your system environment variables
 
 Usage
 ```bash command-line
