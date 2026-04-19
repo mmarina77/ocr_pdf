@@ -1,3 +1,8 @@
+#!/usr/bin/env python3
+"""
+pdf-pipeline-runner.py
+"""
+
 import os
 from pathlib import Path
 import config
